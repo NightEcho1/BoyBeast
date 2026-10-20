@@ -1,0 +1,32 @@
+Before you follow any of these steps please read the "Readme or die.txt" file that comes with the package and follow all the steps inside it.
+
+If you already have existing Animation controllers, Menus and parameters. You will have to merge them with these yourself. I can not provide a solution for this myself.
+
+If you want DPS:
+1. Go in to "X_DPS"
+2. Place "FX Layer Penis" in the FX layer of your avatar descriptor component.
+3. Place "Penis Menus" in the Expression Menu of your avatar descriptor component.
+4. Place "Penis Parameters" in the Expression Parameters of your avatar descriptor component.
+
+5. Drag and drop the "Humanoid Penis" in to your scene Hiearchy (NOT INSIDE YOUR AVATAR)
+6. Now drag the "Humanoid Penis" from your Hiearchy on to the hip bone of your avatar
+7. Adjust the position and size if the prefab to match your avatar
+8. Upload
+(Optionally you can also hide the "Penis" inside the prefab so it doesnt show when calibrating full body tracking)
+
+
+If you dont want DPS:
+1. Go in to "X_NO DPS"
+2. Place "FX Layer Penis" in the FX layer of your avatar descriptor component.
+3. Place "Penis Menus" in the Expression Menu of your avatar descriptor component.
+4. Place "Penis Parameters" in the Expression Parameters of your avatar descriptor component.
+
+5. Drag and drop the "Humanoid Penis" in to your scene Hiearchy (NOT INSIDE YOUR AVATAR)
+6. Now drag the "Humanoid Penis" from your Hiearchy on to the hip bone of your avatar
+7. Adjust the position and size if the prefab to match your avatar
+8. Upload
+(Optionally you can also hide the "Penis" inside the prefab so it doesnt show when calibrating full body tracking)
+
+
+If you want to change materials, or use a different shader make sure you change both materials if you are using the DPS version, if youre not using the DPS version you only need to replace the "No DPS mat"
+

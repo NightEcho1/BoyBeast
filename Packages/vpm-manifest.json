@@ -1,0 +1,84 @@
+{
+  "dependencies": {
+    "com.vrchat.base": {
+      "version": "3.10.5"
+    },
+    "com.vrchat.avatars": {
+      "version": "3.10.5"
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.29"
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.1434.0"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.9"
+    },
+    "com.poiyomi.toon": {
+      "version": "10.0.25"
+    },
+    "gogoloco": {
+      "version": "1.8.6"
+    },
+    "com.nanochip.avatarlimbscaling": {
+      "version": "1.2.0"
+    },
+    "adjerry91.vrcft.templates": {
+      "version": "7.0.5"
+    }
+  },
+  "locked": {
+    "com.vrchat.base": {
+      "version": "3.10.5",
+      "dependencies": {}
+    },
+    "com.vrchat.avatars": {
+      "version": "3.10.5",
+      "dependencies": {
+        "com.vrchat.base": "3.10.5"
+      }
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.29",
+      "dependencies": {}
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.1434.0",
+      "dependencies": {}
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.9",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.10.4 < 3.11.X"
+      }
+    },
+    "com.poiyomi.toon": {
+      "version": "10.0.25",
+      "dependencies": {
+        "com.poiyomi.thryeditor": ">=2.74.3"
+      }
+    },
+    "com.poiyomi.thryeditor": {
+      "version": "2.74.3",
+      "dependencies": {}
+    },
+    "gogoloco": {
+      "version": "1.8.6",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.2.2"
+      }
+    },
+    "com.nanochip.avatarlimbscaling": {
+      "version": "1.2.0",
+      "dependencies": {
+        "com.vrchat.avatars": "^3.x.x",
+        "com.vrcfury.vrcfury": ">=1.1127.0"
+      }
+    },
+    "adjerry91.vrcft.templates": {
+      "version": "7.0.5",
+      "dependencies": {}
+    }
+  }
+}
